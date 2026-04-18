@@ -4,7 +4,7 @@ Tu SaaS de películas con personalidad. Explora, descubre y guarda tus favoritas
 
 ## Demo
 
-Desplegado en Vercel: [https://popcorn-movies.vercel.app](https://popcorn-movies.vercel.app)
+Desplegado en Hostinger: https://popcorn.portfolioslf.com
 
 ## Características
 
