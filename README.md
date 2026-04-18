@@ -89,14 +89,6 @@ src/
 └── App.jsx
 ```
 
-## Deploy
-
-### Vercel
-
-1. Conecta tu repo de GitHub
-2. Agrega la variable `VITE_TMDB_API_KEY`
-3. Deploy automático en cada push
-
 ### Build Local
 
 ```bash
@@ -113,10 +105,6 @@ npm run preview  # Previsualiza
 | Dorado | #ffd23f | Ratings, highlights |
 | Azul Oscuro | #0f0f1a | Background |
 | Púrpura Oscuro | #1a1a2e | Cards, surfaces |
-
-## Autor
-
-Tu Nombre - [GitHub](https://github.com/tu-usuario)
 
 MIT License
 # popcorn
